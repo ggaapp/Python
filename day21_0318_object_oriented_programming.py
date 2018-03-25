@@ -22,8 +22,8 @@
   - __repr__, __str__  : 스트링을 '리턴'
   - __add__, __sub__ ... '연산자'
 """
-import _script_run_utf8
-_script_run_utf8.main()
+# import _script_run_utf8
+# _script_run_utf8.main()
 
 """ 만 들려는 매서드, 클래스변수, 인스턴스변수(self)
 값 = 클래스변수(성격), 인스턴스변수(이름, 개인비밀)
